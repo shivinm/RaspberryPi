@@ -1,0 +1,7 @@
+-- files
+\\asylumpublic\share\public\Users\a2\rpi_teensy
+
+-- seeing output on teensy
+$ sudo cat /dev/ttyAMA0
+ 
+
